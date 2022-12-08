@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2",
+    "neighborhood": "",
+    "city": "Abaiara",
+    "state": "Ceará",
+    "country": "Brasil",
+    "lat": "-7.358990449922921",
+    "lon": "-39.04732436743584",
+    "distance": "",
+    "place_details": "abaiara_ce_br"
+  },
+  {
+    "id": "3",
+    "neighborhood": "",
+    "city": "Acarape",
+    "state": "Ceará",
+    "country": "Brasil",
+    "lat": "-4.215808323890432",
+    "lon": "-38.66897320010783",
+    "distance": "",
+    "place_details": "acarape_ce_br"
+  },
+  {
+    "id": "4",
+    "neighborhood": "",
+    "city": "Acaraú",
+    "state": "Ceará",
+    "country": "Brasil",
+    "lat": "-2.9511045823440116",
+    "lon": "-40.07248066118015",
+    "distance": "",
+    "place_details": "acarau_ce_br"
+  },
+  {
+    "id": "5",
+    "neighborhood": "",
+    "city": "Acopiara",
+    "state": "Ceará",
+    "country": "Brasil",
+    "lat": "-6.094780752740971",
+    "lon": "-39.45379786198547",
+    "distance": "",
+    "place_details": "acopiara_ce_br"
+  },
+  {
+    "id": "6",
+    "neighborhood": "",
+    "city": "Aiuaba",
+    "state": "Ceará",
+    "country": "Brasil",
+    "lat": "-6.569802291939811",
+    "lon": "-40.12323086126598",
+    "distance": "",
+    "place_details": "aiuaba_ce_br"
+  }
+]
